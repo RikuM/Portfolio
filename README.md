@@ -26,8 +26,9 @@ My work combines **data analysis, modeling, and visualization** to improve effic
 - Created visualizations to communicate affordability trends and insights  
 - **Tools:** Python, Pandas, Tableau  
 
-👉 https://github.com/RikuM/Costly-Living
-👉 https://sthors.shinyapps.io/costlyliving_hoa/
+👉 [Costly Living - GitHub](https://github.com/RikuM/Costly-Living)
+
+👉 [Deployed](https://sthors.shinyapps.io/costlyliving_hoa/)
 
 ---
 
@@ -35,17 +36,18 @@ My work combines **data analysis, modeling, and visualization** to improve effic
 - Developed a computer vision system to analyze vehicle motion and detect drifting behavior  
 - Processed video data to extract movement patterns and classify driving events  
 - Built a pipeline for real-time or recorded footage analysis  
-- **Tools:** Python, OpenCV  
+- **Tools:** Python, OpenCV
 
-👉 https://huggingface.co/cvtechniques/DriftVision
+👉 [DriftVision - Hugging Face](https://huggingface.co/cvtechniques/DriftVision)
 
 ---
 
 ### 🌫 Air Quality & Tree Canopy Analysis (Washington State)
 Geospatial analysis of PM2.5 pollution and tree canopy coverage using ArcGIS and spatial statistics.  
 - Hot Spot Analysis, Kriging, and bivariate spatial relationships  
-- Evaluated environmental and urbanization impacts across census tracts  
-👉 https://storymaps.arcgis.com/stories/95f661c8641c4cef8538efaeec6b472d
+- Evaluated environmental and urbanization impacts across census tracts
+
+👉 [Story Map](https://storymaps.arcgis.com/stories/95f661c8641c4cef8538efaeec6b472d)
 
 ---
 
@@ -54,7 +56,7 @@ Remote sensing analysis of urban growth using Landsat imagery and supervised cla
 - Measured land use change over 20+ years  
 - Evaluated infrastructure expansion and environmental impact
   
-👉 https://storymaps.arcgis.com/stories/7afb71e7352f47629ad0d1ce459c06d9
+👉 [Story Map](https://storymaps.arcgis.com/stories/7afb71e7352f47629ad0d1ce459c06d9)
 
 ---
 
@@ -69,6 +71,6 @@ Remote sensing analysis of urban growth using Landsat imagery and supervised cla
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/riku-matsumoto-bb42841b9/
+- [LinkedIn](https://www.linkedin.com/in/riku-matsumoto-bb42841b9/)
 - Email: riku.matsumoto623@gmail.com 
 
