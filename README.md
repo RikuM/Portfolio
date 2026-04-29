@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Riku Matsumoto
 
-I’m a Data Visualization major with minors in Data Analytics and Economics, focused on using data to solve real-world operational and spatial problems.
+I’m a Data Visualization major with minors in Data Analytics and Economics, focused on applying data science and geospatial analysis to real-world problems.
 
-My work combines **data analysis, modeling, and visualization** to improve efficiency, support decision-making, and uncover actionable insights.
-
+My work combines visualization, computer vision, and spatial data analysis to extract insights from complex real-world systems.
 ---
 
 ## 🛠 Skills
