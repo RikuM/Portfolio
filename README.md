@@ -27,6 +27,7 @@ My work combines **data analysis, modeling, and visualization** to improve effic
 - **Tools:** Python, Pandas, Tableau  
 
 👉 https://github.com/RikuM/Costly-Living
+👉 https://sthors.shinyapps.io/costlyliving_hoa/
 
 ---
 
@@ -40,12 +41,22 @@ My work combines **data analysis, modeling, and visualization** to improve effic
 
 ---
 
-### 🔹 GIS-Based Spatial Analysis
-- Used ArcGIS to analyze spatial data and identify patterns in accessibility and resource distribution  
-- Created maps to support data-driven planning decisions  
-- **Tools:** ArcGIS Pro  
+### 🌫 Air Quality & Tree Canopy Analysis (Washington State)
+Geospatial analysis of PM2.5 pollution and tree canopy coverage using ArcGIS and spatial statistics.  
+- Hot Spot Analysis, Kriging, and bivariate spatial relationships  
+- Evaluated environmental and urbanization impacts across census tracts  
+👉 https://storymaps.arcgis.com/stories/95f661c8641c4cef8538efaeec6b472d
 
-👉 [View Project](#)
+---
+
+### 🌆 Urban Expansion Analysis (Doha & Quito)
+Remote sensing analysis of urban growth using Landsat imagery and supervised classification.  
+- Measured land use change over 20+ years  
+- Evaluated infrastructure expansion and environmental impact
+  
+👉 https://storymaps.arcgis.com/stories/7afb71e7352f47629ad0d1ce459c06d9
+
+---
 
 ---
 
@@ -58,6 +69,6 @@ My work combines **data analysis, modeling, and visualization** to improve effic
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]  
+- LinkedIn: https://www.linkedin.com/in/riku-matsumoto-bb42841b9/
+- Email: riku.matsumoto623@gmail.com 
 
