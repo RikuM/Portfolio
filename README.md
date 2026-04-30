@@ -20,10 +20,10 @@ My work combines visualization, computer vision, and spatial data analysis to ex
 ## 📊 Featured Projects
 
 ### 🔹 Cost of Living Analysis
-- Analyzed regional cost of living differences using economic and demographic data  
+- Analyzed regional cost of living differences using economic and demographic data from the US Census Bureau
 - Identified key drivers of variation, including housing, income, and regional price levels  
 - Created visualizations to communicate affordability trends and insights  
-- **Tools:** Python, Pandas, Tableau  
+- **Tools:** R, Shiny, Tidyverse  
 
 👉 [Costly Living - GitHub](https://github.com/RikuM/Costly-Living)
 
@@ -32,10 +32,10 @@ My work combines visualization, computer vision, and spatial data analysis to ex
 ---
 
 ### 🔹 DriftVision
-- Developed a computer vision system to analyze vehicle motion and detect drifting behavior  
-- Processed video data to extract movement patterns and classify driving events  
-- Built a pipeline for real-time or recorded footage analysis  
-- **Tools:** Python, OpenCV
+- Developed a computer vision system to detect and track drift cars 
+- Processed video data to extract the leader, chaser, and the drift 'Zones'  
+- The system measures how they interact with predefined drift zones.
+- **Tools:** Python, Ultralytics YOLO, Roboflow
 
 👉 [DriftVision - Hugging Face](https://huggingface.co/cvtechniques/DriftVision)
 
@@ -45,6 +45,7 @@ My work combines visualization, computer vision, and spatial data analysis to ex
 Geospatial analysis of PM2.5 pollution and tree canopy coverage using ArcGIS and spatial statistics.  
 - Hot Spot Analysis, Kriging, and bivariate spatial relationships  
 - Evaluated environmental and urbanization impacts across census tracts
+- **Tools:** ArcGIS
 
 👉 [Story Map](https://storymaps.arcgis.com/stories/95f661c8641c4cef8538efaeec6b472d)
 
@@ -54,7 +55,8 @@ Geospatial analysis of PM2.5 pollution and tree canopy coverage using ArcGIS and
 Remote sensing analysis of urban growth using Landsat imagery and supervised classification.  
 - Measured land use change over 20+ years  
 - Evaluated infrastructure expansion and environmental impact
-  
+- **Tools:** ArcGIS
+
 👉 [Story Map](https://storymaps.arcgis.com/stories/7afb71e7352f47629ad0d1ce459c06d9)
 
 ---
